@@ -4,3 +4,6 @@
 
 Шаблон сайта отсюда: https://morepsd.ru/2018/12/landing-page-magazin-cvetov/
 Бесплатные шаблоны, html5 и css, для скачивания. 100+ лендингов включая тему стройки и отделки, цветы, ногти, салоны красоты
+
+Все landig pages тут:
+https://morepsd.ru/category/sites/landing-page/
